@@ -1,4 +1,4 @@
-# CatJam
+# Cat-astrophe
 Concordia Game Dev (CDG) Club's Game Jam - Fall 2023 Submission
 ### Team Members
 [Megan Coscia](https://github.com/m-coscia): Developer <br>
